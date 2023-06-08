@@ -1,6 +1,7 @@
 ### Arduino Nano 33 BLE Sense responding to your voice! :rocket:
 
-This TinyML project can detect "hello world" and "stop" sounds. An LED is then turned on when "hello world" is detected and turned off when "stop" is detected. The TinyML model is trained and developed with [Edge Impulse](https://edgeimpulse.com).
+
+This TinyML demo, developed using [Edge Impulse](https://edgeimpulse.com), toggles an LED on and OFF using voice commands.
 
 ![TinyML running](media/Arduino%20Nano%2033%20BLE%20Sense.gif)
 
